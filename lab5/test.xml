@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<collectionManager>
+    <entries>
+        <entry key="1">
+            <city>
+                <id>1</id>
+                <name>Moscow</name>
+                <coordinates>
+                    <x>12.5</x>
+                    <y>100</y>
+                </coordinates>
+                <creationDate>2026-10-01</creationDate>
+                <area>2561</area>
+                <population>12000000</population>
+                <metersAboveSeaLevel>156.0</metersAboveSeaLevel>
+                <populationDensity>4800</populationDensity>
+                <telephoneCode>495</telephoneCode>
+                <climate>humid_subtropical</climate>
+                <governor>
+                    <age>45</age>
+                    <height>180.0</height>
+                    <birthday>1979-05-20T00:00</birthday>
+                </governor>
+            </city>
+        </entry>
+        <entry key="2">
+            <city>
+                <id>2</id>
+                <name>Sochi</name>
+                <coordinates>
+                    <x>43.6</x>
+                    <y>50</y>
+                </coordinates>
+                <creationDate>2026-10-01</creationDate>
+                <area>3506</area>
+                <population>400000</population>
+                <metersAboveSeaLevel>30.0</metersAboveSeaLevel>
+                <populationDensity>2500</populationDensity>
+                <telephoneCode>862</telephoneCode>
+                <climate>humid_subtropical</climate>
+            </city>
+        </entry>
+        <entry key="5">
+            <city>
+                <id>3</id>
+                <name>karaj</name>
+                <coordinates>
+                    <x>100.0</x>
+                    <y>100</y>
+                </coordinates>
+                <creationDate>2026-10-02</creationDate>
+                <area>1000</area>
+                <population>100000</population>
+                <metersAboveSeaLevel>100.0</metersAboveSeaLevel>
+                <populationDensity>10</populationDensity>
+                <telephoneCode>12</telephoneCode>
+                <climate>desert</climate>
+                <governor>
+                    <age>100</age>
+                    <height>100.0</height>
+                    <birthday>2000-11-12T00:00</birthday>
+                </governor>
+            </city>
+        </entry>
+    </entries>
+    <creation_date_collection>2026-10-01</creation_date_collection>
+</collectionManager>

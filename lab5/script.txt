@@ -1,0 +1,30 @@
+info
+insert 10
+Kazan
+49.1
+55
+614
+1250000
+100.0
+2000
+843
+oceanic
+52
+178.5
+1973-03-01
+insert 11
+Tula
+37.6
+54
+200
+470000
+
+2300
+4872
+oceanic
+
+
+
+show
+count_greater_than_telephone_code 500
+print_field_ascending_telephone_code
